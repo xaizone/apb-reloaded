@@ -2,7 +2,7 @@
 Personal [APB: Reloaded](https://store.steampowered.com/app/113400/APB_Reloaded/) config - provides QoL changes, framerate bump, competitive localization & other useful stuff (to actually enjoy the game). 
 
 ## Disclaimer
-If you are going to use this config, please keep in mind that some files (Engine/Shaders/*) are not officially approved by Little Orbit and you may be in risk of a ban. I do not take responsibility for any restrictions towoards your game account.
+If you are going to use this config, please keep in mind that some files (Engine/Shaders/*) are not officially approved by Little Orbit and you may be in a risk of a ban. I do not take responsibility for any restrictions on your game account.
 
 ## Installation
 1. Clone this Repository to your APB: Reloaded root folder.

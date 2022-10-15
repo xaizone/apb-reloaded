@@ -453,14 +453,14 @@ TaskObjectives_DB_BEL0_Inv1_T_Stage04_Opp_DispatchBrief=<col:InteractionPoint_Sy
 
 ;BOOKIE ON THE RUN: DB_BES2_Inv2
 
-TaskObjectives_DB_BES2_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Inv + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
 TaskObjectives_DB_BES2_Inv2_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
 TaskObjectives_DB_BES2_Inv2_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
 TaskObjectives_DB_BES2_Inv2_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]

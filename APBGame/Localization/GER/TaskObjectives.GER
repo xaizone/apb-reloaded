@@ -405,14 +405,14 @@ TaskObjectives_JG_BCL0_Gra1_G_Stage04_Opp_DispatchBrief=<col:InteractionPoint_Sy
 
 ;BOGUS BURGLARY: DB_BES0_Inv1_P
 
-TaskObjectives_DB_BES0_Inv1_P_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
-TaskObjectives_DB_BES0_Inv1_P_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
-TaskObjectives_DB_BES0_Inv1_P_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
-TaskObjectives_DB_BES0_Inv1_P_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
-TaskObjectives_DB_BES0_Inv1_P_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
-TaskObjectives_DB_BES0_Inv1_P_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
-TaskObjectives_DB_BES0_Inv1_P_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
-TaskObjectives_DB_BES0_Inv1_P_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
+TaskObjectives_DB_BES0_Inv1_P_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [05:00] | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
 TaskObjectives_DB_BES0_Inv1_P_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
 TaskObjectives_DB_BES0_Inv1_P_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
 TaskObjectives_DB_BES0_Inv1_P_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Sabotage [06:00] | Pickup [05:00] | Scavenger [Small] [07:00]
@@ -433,46 +433,46 @@ TaskObjectives_DB_BES0_Inv1_P_Stage06_Opp_DispatchBrief=<col:InteractionPoint_Sy
 
 ;BOMBED OUT: DB_BEL0_Inv1_T
 
-TaskObjectives_DB_BEL0_Inv1_T_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_T_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_T_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
 TaskObjectives_DB_BEL0_Inv1_T_Stage04_OwnerBrief=<col:InteractionPoint_SymbolEditor>Graffiti [07:00]</col>
 TaskObjectives_DB_BEL0_Inv1_T_Stage04_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Graffiti [07:00]</col>
 TaskObjectives_DB_BEL0_Inv1_T_Stage04_DispatchBrief=<col:InteractionPoint_SymbolEditor>Graffiti [07:00]</col>
 TaskObjectives_DB_BEL0_Inv1_T_Stage04_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Graffiti [07:00]</col>
-
+ 
 
 ;BOOKIE ON THE RUN: DB_BES2_Inv2
 
-TaskObjectives_DB_BES2_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage04_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage04_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage04_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage04_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage05_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage05_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage05_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger: 3 [Small] [07:00]
-TaskObjectives_DB_BES2_Inv2_Stage05_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate + Hack: 2 [05:00]</col> | Raid [05:00] | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage04_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage04_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage04_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage04_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage05_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage05_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage05_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger: 3 [Small] [07:00]
+TaskObjectives_DB_BES2_Inv2_Stage05_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger: 3 [Small] [07:00]
 TaskObjectives_DB_BES2_Inv2_Stage06_OwnerBrief=<col:InteractionPoint_SymbolEditor>Scavenger: 3 [Small] [07:00]</col>
 TaskObjectives_DB_BES2_Inv2_Stage06_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Scavenger: 3 [Small] [07:00]</col>
 TaskObjectives_DB_BES2_Inv2_Stage06_DispatchBrief=<col:InteractionPoint_SymbolEditor>Scavenger: 3 [Small] [07:00]</col>
@@ -541,10 +541,10 @@ TaskObjectives_JG_BEM0_FoE1_T_Stage07_Opp_DispatchBrief=<col:InteractionPoint_Sy
 
 ;BRUSH WITH THE LAW: JG_BEL0_Inv2
 
-TaskObjectives_JG_BEL0_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
-TaskObjectives_JG_BEL0_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
-TaskObjectives_JG_BEL0_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
-TaskObjectives_JG_BEL0_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
+TaskObjectives_JG_BEL0_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
+TaskObjectives_JG_BEL0_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
+TaskObjectives_JG_BEL0_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
+TaskObjectives_JG_BEL0_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid: 2 [05:00] | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
 TaskObjectives_JG_BEL0_Inv2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid: 2 [05:00]</col> | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
 TaskObjectives_JG_BEL0_Inv2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid: 2 [05:00]</col> | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
 TaskObjectives_JG_BEL0_Inv2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid: 2 [05:00]</col> | Drop: 2 [05:00] | Car Loot [05:00] | Drop [05:00] | Scavenger [07:00]
@@ -665,18 +665,18 @@ TaskObjectives_JG_BCM2_Bur1_Stage03_Opp_DispatchBrief=<col:InteractionPoint_Symb
 
 ;CARD-HACK ARREST: JG_BEL2_FoE3
 
-TaskObjectives_JG_BEL2_FoE3_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
-TaskObjectives_JG_BEL2_FoE3_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
+TaskObjectives_JG_BEL2_FoE3_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
 TaskObjectives_JG_BEL2_FoE3_Stage04_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
 TaskObjectives_JG_BEL2_FoE3_Stage04_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
 TaskObjectives_JG_BEL2_FoE3_Stage04_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Raid [05:00] | Drop [05:00] | Point Hold: 3 [10:00]
@@ -1285,18 +1285,18 @@ TaskObjectives_DB_BCS2_VTh1_Stage06_Opp_DispatchBrief=<col:InteractionPoint_Symb
 
 ;DIRTY BUSINESS: AE_BES4_Inv5
 
-TaskObjectives_AE_BES4_Inv5_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigave [05:00] | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger [Heavy] [09:00]
-TaskObjectives_AE_BES4_Inv5_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Pickup [05:00]</col> | Drop [05:00] | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Investigate [05:00] | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger [Heavy] [09:00]
+TaskObjectives_AE_BES4_Inv5_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Scavenger [Heavy] [09:00]
 TaskObjectives_AE_BES4_Inv5_Stage04_OwnerBrief=<col:InteractionPoint_SymbolEditor>Scavenger [Heavy] [09:00]</col>
 TaskObjectives_AE_BES4_Inv5_Stage04_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Scavenger [Heavy] [09:00]</col>
 TaskObjectives_AE_BES4_Inv5_Stage04_DispatchBrief=<col:InteractionPoint_SymbolEditor>Scavenger [Heavy] [09:00]</col>
@@ -2877,10 +2877,10 @@ TaskObjectives_DB_BCM1_Del1_G_Stage04_Opp_DispatchBrief=<col:InteractionPoint_Sy
 
 ;ON THE FENCE: JG_BEM2_FoE2
 
-TaskObjectives_JG_BEM2_FoE2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
-TaskObjectives_JG_BEM2_FoE2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
-TaskObjectives_JG_BEM2_FoE2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
-TaskObjectives_JG_BEM2_FoE2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BEM2_FoE2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BEM2_FoE2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BEM2_FoE2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BEM2_FoE2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Raid [C] [05:00] | Drop: 2 [05:00] | DM+ [05:00]
 TaskObjectives_JG_BEM2_FoE2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [C] [05:00]</col> | Drop: 2 [05:00] | DM+ [05:00]
 TaskObjectives_JG_BEM2_FoE2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Raid [C] [05:00]</col> | Drop: 2 [05:00] | DM+ [05:00]
 TaskObjectives_JG_BEM2_FoE2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Raid [C] [05:00]</col> | Drop: 2 [05:00] | DM+ [05:00]
@@ -3213,10 +3213,10 @@ TaskObjectives_JG_BEL0_Inv1_T_Stage07_Opp_DispatchBrief=<col:InteractionPoint_Sy
 
 ;POLITICAL FAVOR: JG_BEL2_VPi1
 
-TaskObjectives_JG_BEL2_VPi1_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
-TaskObjectives_JG_BEL2_VPi1_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
-TaskObjectives_JG_BEL2_VPi1_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
-TaskObjectives_JG_BEL2_VPi1_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
+TaskObjectives_JG_BEL2_VPi1_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
+TaskObjectives_JG_BEL2_VPi1_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
+TaskObjectives_JG_BEL2_VPi1_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
+TaskObjectives_JG_BEL2_VPi1_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [07:00]</col> | Graffiti [05:00] | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
 TaskObjectives_JG_BEL2_VPi1_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Graffiti [05:00]</col> | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
 TaskObjectives_JG_BEL2_VPi1_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Graffiti [05:00]</col> | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
 TaskObjectives_JG_BEL2_VPi1_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Graffiti [05:00]</col> | Graffiti: 2 [05:00] | Pickup [05:00] | Drop [05:00] | Item Hold [07:00]
@@ -3685,18 +3685,18 @@ TaskObjectives_JG_BCL4_Ars1_Stage07_Opp_DispatchBrief=<col:InteractionPoint_Symb
 
 ;SIGNAL TO NOISE: DB_BEL0_Inv1_P
 
-TaskObjectives_DB_BEL0_Inv1_P_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
-TaskObjectives_DB_BEL0_Inv1_P_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
+TaskObjectives_DB_BEL0_Inv1_P_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Graffiti [07:00]
 TaskObjectives_DB_BEL0_Inv1_P_Stage04_OwnerBrief=<col:InteractionPoint_SymbolEditor>Graffiti [07:00]</col>
 TaskObjectives_DB_BEL0_Inv1_P_Stage04_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Graffiti [07:00]</col>
 TaskObjectives_DB_BEL0_Inv1_P_Stage04_DispatchBrief=<col:InteractionPoint_SymbolEditor>Graffiti [07:00]</col>
@@ -4281,18 +4281,18 @@ TaskObjectives_JG_BCS1_Exemplar3_G_Stage05_Opp_DispatchBrief=<col:InteractionPoi
 
 ;THREATENING CALLS: JG_BES2_Inv2
 
-TaskObjectives_JG_BES2_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigave [05:00] | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigave [05:00] | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Point Hold [07:00]
-TaskObjectives_JG_BES2_Inv2_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Defuse [05:00]</col> | Investigate [05:00] | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage02_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate [05:00] | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage03_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage03_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage03_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Point Hold [07:00]
+TaskObjectives_JG_BES2_Inv2_Stage03_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Drop [05:00] | Point Hold [07:00]
 TaskObjectives_JG_BES2_Inv2_Stage04_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Point Hold [07:00]
 TaskObjectives_JG_BES2_Inv2_Stage04_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Point Hold [07:00]
 TaskObjectives_JG_BES2_Inv2_Stage04_DispatchBrief=<col:InteractionPoint_SymbolEditor>Drop [05:00]</col> | Point Hold [07:00]
@@ -4809,10 +4809,10 @@ TaskObjectives_JG_BCM2_Exemplar_Stage05_Opp_DispatchBrief=<col:InteractionPoint_
 
 ;URANIUM IS SHOWING: JG_BES2_Inv1
 
-TaskObjectives_JG_BES2_Inv1_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
-TaskObjectives_JG_BES2_Inv1_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
-TaskObjectives_JG_BES2_Inv1_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
-TaskObjectives_JG_BES2_Inv1_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigave [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BES2_Inv1_Stage01_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BES2_Inv1_Stage01_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BES2_Inv1_Stage01_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
+TaskObjectives_JG_BES2_Inv1_Stage01_Opp_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate [05:00]</col> | Investigate: 2 [05:00] | Drop: 3 [05:00] | DM+ [05:00]
 TaskObjectives_JG_BES2_Inv1_Stage02_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate: 2 [05:00]</col> | Drop: 3 [05:00] | DM+ [05:00]
 TaskObjectives_JG_BES2_Inv1_Stage02_Opp_OwnerBrief=<col:InteractionPoint_SymbolEditor>Investigate: 2 [05:00]</col> | Drop: 3 [05:00] | DM+ [05:00]
 TaskObjectives_JG_BES2_Inv1_Stage02_DispatchBrief=<col:InteractionPoint_SymbolEditor>Investigate: 2 [05:00]</col> | Drop: 3 [05:00] | DM+ [05:00]

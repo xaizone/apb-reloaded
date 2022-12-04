@@ -1,4 +1,4 @@
 @echo off
-cd Binaries
 echo starting apb.exe
-APB.exe -nomoviestartup -noverifygc -language=1031
+start Binaries\APB_BE.exe -nomovies -nosplash -language=1031
+timeout 5 > nul

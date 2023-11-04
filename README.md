@@ -2,7 +2,9 @@
 Personal [APB: Reloaded](https://store.steampowered.com/app/113400/APB_Reloaded/) config - provides QoL changes, framerate increase, competitive localization & other useful stuff.
 
 ## Disclaimer
-As of version v3.1.1, this config is not recommended for systems with under 16GB of system memory (RAM). Use at your own risk. This config is provided "AS IS", without warranty of any kind, express or implied.
+As of version v3.3, this config is not recommended for systems with under 32GB of system memory (RAM), due to disabled texture streaming and GC timer. Use at your own risk. This config is provided "AS IS", without warranty of any kind, express or implied.
+
+If you use any other keybinds than 1, 2 and 3 (equip primary, secondary and grenade) for changing weapons, you have to manually adjust them in `APBGame\Config\DefaultInput.ini`, if you want to retain no keyboard delay.
 
 ## Installation
 0. Remove any pre-existing config (Run APBLauncher.exe -> Repair). 

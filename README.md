@@ -4,11 +4,11 @@ Personal [APB: Reloaded](https://store.steampowered.com/app/113400/APB_Reloaded/
 ## Disclaimer
 As of version v3.3, this config is not recommended for systems with under 32GB of system memory (RAM), due to disabled texture streaming and GC timer. Use at your own risk. This config is provided "AS IS", without warranty of any kind, express or implied.
 
-If you use any other keybinds than 1 and 2 (equip primary and secondary) for changing weapons, you have to manually adjust them in `APBGame\Config\DefaultInput.ini`. Binding those in-game doesn't work as intended due to no keyboard delay fix.
+If you use any other keybinds than 1 and 2 (equip primary and secondary) for changing weapons, you have to manually adjust them in `APBGame\Config\DefaultInput.ini`. Binding those in-game doesn't work as intended due to "no keyboard delay" fix.
 
 ## Installation
 0. Remove any pre-existing config (Run APBLauncher.exe -> Repair). 
-1. Clone this repository into your APB: Reloaded root directory (or download the [latest release](https://github.com/xaizone/apb-reloaded/releases/latest)).
+1. Clone this repository into your APB: Reloaded root directory (or download the [latest release](https://github.com/xaizone/apb-reloaded/releases/latest) and copy everything to the root directory).
 2. Start your game with StartGame.bat or StartGame-NoSteam.bat.
 
 ## Contributing
